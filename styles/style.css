@@ -129,3 +129,128 @@
     font-size: 16px;
     font-weight: 600;
 }
+.yt{
+    border: 1px solid black;
+    padding: 32px;
+    width: 950px;
+    height: 450px;
+    border-radius: 15px;
+    margin: auto;
+    
+   
+}
+iframe{
+    border-radius: 15px;
+}
+
+.page3con{
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 260px;
+}
+.head3{
+    font-size: 32px;
+    font-weight: bolder;
+   
+}
+.p3{
+    font-size: 16px;
+    margin-bottom: 48px;
+}
+.page3{
+    margin-bottom: 111px;
+}
+
+.all-blocks{
+    display: flex;
+    gap: 20px;
+    margin-left:140px ;
+    margin-right: 140px;
+}
+.block{
+    width: 350px;
+    height: 250px;
+    padding: 40px;
+    border-radius: 15px;
+}
+.block1{
+    background-color: rgba(255, 76, 30, 5%);
+}
+.block2{
+    background-color: rgba(0, 76,232 , 5%);
+}
+.block3{
+    background-color: rgba(255,223 ,0 , 5%);
+}
+.block a{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+ 
+}
+.block p{
+    margin-bottom: 20px;
+}
+.block h4{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.page4{
+    margin-bottom: 111px;
+}
+.skills{
+    display: flex;
+    gap: 20px;
+    height: 190px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+.skill1{
+    margin-bottom: 30px;
+}
+.skill2{
+    margin-bottom: 30px;
+}
+.simg{
+    padding-top: 20px;
+}
+.s-des h4{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.s-des a{
+    color: black;
+    font-weight: bold;
+}
+.page5{
+    margin-bottom: 50px;
+}
+
+.feedbackbg{
+    height: 313px;
+    margin-left: 140px;
+    margin-right: 140px;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+   
+}
+.fhead{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+.fp{
+    color: white;
+    font-size: 16px;
+}
+.form-con{
+    text-align: center;
+    padding-top: 20px;
+}
