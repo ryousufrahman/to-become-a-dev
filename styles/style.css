@@ -65,3 +65,67 @@
     font-size: 20px;
     font-weight: 700;
 }
+.second-page{
+    background-color: rgba(13, 19, 33, 2%);
+    margin-left: 140px;
+    margin-right: 140px;
+   padding-left: 97px;
+   padding-right: 97px;
+   padding-top: 80px;
+   padding-bottom: 80px;
+   border-radius: 15px;
+  
+}
+.se-head-con{
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.se-head{
+
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.se-p{
+
+    font-size: 16px;
+    color: #0D1321;
+}
+.card1 , .card2 , .card3{
+    display: flex;
+    gap: 32px;
+    height: 280px;
+    width: auto;
+    background-color: white;
+    padding: 48px;
+    border-radius: 15px;
+}
+.card1{
+    margin-bottom: 32px;
+    padding-bottom: 48px;
+    padding-top: 48px;
+}
+
+.card2{
+    margin-bottom: 32px;
+}
+.ch{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(13, 19, 33, 70%);
+    margin-bottom: 16px;
+}
+.cp{
+    font-size: 16px;
+    color: #0D1321;
+    margin-bottom: 45px;
+}
+.cbu{
+    height: 40px;
+    width: 165px;
+    background-color: white;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 600;
+}
