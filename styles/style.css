@@ -283,3 +283,11 @@ iframe{
 .page6{
     margin-bottom: 111px;
 }
+footer{
+    background-color: rgba(0, 76, 232, 5%)
+}
+.contact-box{
+    display: flex;
+    justify-content: space-around;
+    padding: 32px 150px 32px 150px;
+}
