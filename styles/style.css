@@ -8,8 +8,8 @@
 .nav-bar{
     margin-left: 140px;
     margin-right: 140px;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-top: 15px;
    display: flex;
    justify-content: space-between;
 }
@@ -18,8 +18,8 @@
     width: 244px;
     border-radius: 10px;
     color: #0D1321;
-    font-weight: 700;
-    font-size: 20px;
+    font-weight: normal;
+    font-size: 16px;
     background-color: white;
 }
 .nav-head{
@@ -95,7 +95,7 @@
 .card1 , .card2 , .card3{
     display: flex;
     gap: 32px;
-    height: 280px;
+    height: 250px;
     width: auto;
     background-color: white;
     padding: 48px;
@@ -272,7 +272,7 @@ iframe{
     border-radius: 10px;
     color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
 
 
 }
@@ -290,4 +290,7 @@ footer{
     display: flex;
     justify-content: space-around;
     padding: 32px 150px 32px 150px;
+}
+.network a{
+    margin-right: 15px;
 }
